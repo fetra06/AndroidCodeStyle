@@ -4,7 +4,6 @@ Code formatting rules for Android Studio
 
 ## Features
 - Based on googles java code style (https://git.io/v5XuB)
-- [Hungarian Notation (m-Prefix)](https://github.com/grandcentrix/AndroidCodeStyle/issues/4)
 - [No star imports](https://github.com/grandcentrix/AndroidCodeStyle/issues/5) except for testing libraries
 - Increase the line length to 118 (default 100)
 - `android:id` after `xmlns` declaration in XML layouts
